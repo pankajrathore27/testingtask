@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33406" started-at="2020-03-13T06:16:09Z" finished-at="2020-03-13T06:16:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33406" started-at="2020-03-13T06:16:09Z" finished-at="2020-03-13T06:16:42Z">
+      <class name="TestNGproject.TestRun">
+        <test-method status="PASS" signature="createAccount()[pri:0, instance:TestNGproject.TestRun@51565ec2]" name="createAccount" duration-ms="11" started-at="2020-03-13T06:16:09Z" finished-at="2020-03-13T06:16:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method status="PASS" signature="verifyHomepageTitle()[pri:0, instance:TestNGproject.TestRun@51565ec2]" name="verifyHomepageTitle" duration-ms="33364" started-at="2020-03-13T06:16:09Z" finished-at="2020-03-13T06:16:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle -->
+      </class> <!-- TestNGproject.TestRun -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
